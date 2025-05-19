@@ -1,2 +1,4 @@
-crypto-price-text checks diffrent crypto prices and if you want writes them on a Text file with date and time
-crypto-price-personal-asset is more personal you can enter your diffrent assets and it checks your overall balance every 4 hours and writes it down on a sqlite database 
+crypto-price-text – Fetches the latest cryptocurrency prices and optionally logs them to a text file with date and time stamps.
+
+crypto-price-personal-asset – A personalized tracker where you input your crypto holdings. It calculates your total portfolio value every 4 hours and saves the data into an SQLite database for historical tracking.
+
